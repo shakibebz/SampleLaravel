@@ -24,13 +24,19 @@ The project follows REST standards, handles validation, and uses proper HTTP sta
 
 1️⃣ Clone the project
 ```
-git clone https://github.com/yourusername/url-shortener.git
+git clone https://github.com/yourusername/url-shortener.git](https://github.com/shakibebz/SampleLaravel.git
 ```
 
 2️⃣ Install dependencies
 ```
 composer install
 ```
+3️⃣ Create environment file
+```
+Copy the .env.example to .env:
+```
+
+cp .env.example .env
 4️⃣ Configure the database
 
 Update .env with your MySQL credentials:
